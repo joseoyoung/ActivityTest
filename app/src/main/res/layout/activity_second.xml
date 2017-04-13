@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3cfff9"
+    android:background="#76fffb"
     android:orientation="vertical"
     tools:context="kr.hs.emirim.joseoyoung.activitytest.MainActivity">
     <TextView
@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:textColor="#0c3975"
+        android:textColor="#f983ff"
         />
     <Button
         android:id="@+id/but_second"
