@@ -4,8 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#3cfff9"
+    android:orientation="vertical"
     tools:context="kr.hs.emirim.joseoyoung.activitytest.MainActivity">
-
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0c3975"
+        />
     <Button
         android:id="@+id/but_second"
         android:layout_width="match_parent"
